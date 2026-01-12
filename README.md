@@ -285,8 +285,3 @@ Untuk pertanyaan atau saran perbaikan, silakan hubungi anggota kelompok:
 
 Project ini dibuat untuk keperluan akademik Universitas Pendidikan Indonesia.
 
----
-
-**Last Updated:** Januari 2025  
-**Status:** Completed
-
